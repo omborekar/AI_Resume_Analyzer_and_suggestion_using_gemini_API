@@ -1,0 +1,130 @@
+Cognizant ACE Program — Technical Role (12 LPA Fresher)
+========================================================
+
+ABOUT THE ROLE
+Cognizant is hiring for GenC Next and ACE (Advanced Cognizant Engineering) programs
+targeting final-year / recently graduated engineers with demonstrated skills in
+modern software development, AI/ML, and cloud technologies.
+
+ROLE: Associate Software Engineer — GenAI & Full Stack
+Compensation: Up to INR 12,00,000 per annum (12 LPA)
+Location: Pan India (Bangalore, Hyderabad, Pune, Chennai, Mumbai, Kolkata)
+
+KEY RESPONSIBILITIES
+- Design and develop scalable full-stack applications using React (frontend)
+  and Python / Java / .NET (backend).
+- Implement Generative AI solutions using LLMs such as Google Gemini, GPT-4,
+  and Claude for intelligent automation workflows.
+- Build and maintain Retrieval-Augmented Generation (RAG) pipelines using
+  vector databases (ChromaDB, Pinecone, FAISS) and embedding models.
+- Architect multi-agent AI systems using LangChain, AutoGen, or CrewAI
+  frameworks for complex task orchestration and agentic workflows.
+- Apply Prompt Engineering techniques: chain-of-thought, few-shot learning,
+  structured output, ReAct patterns to improve LLM reliability.
+- Deploy applications on cloud platforms (GCP, AWS, Azure) using Docker,
+  Kubernetes, and CI/CD pipelines.
+- Solve algorithmic problems using Data Structures and Algorithms (DSA)
+  in Java, Python, or .NET.
+- Collaborate in Agile/Scrum teams; write clean, testable, maintainable code.
+
+REQUIRED TECHNICAL SKILLS
+Programming Languages:
+  - Python (primary), Java, C# / .NET
+  - Strong DSA fundamentals: arrays, trees, graphs, DP, sorting algorithms
+
+Frontend Development:
+  - React.js (hooks, context, TypeScript)
+  - HTML5, CSS3, responsive design
+  - REST API integration, Axios, Fetch
+
+Artificial Intelligence & Machine Learning:
+  - Generative AI, LLMs, Foundation Models
+  - Prompt Engineering (chain-of-thought, few-shot, zero-shot, RAG prompts)
+  - Retrieval-Augmented Generation (RAG) architecture
+  - Agentic AI frameworks: LangChain, LlamaIndex, AutoGen, CrewAI
+  - Vector Databases: ChromaDB, Pinecone, FAISS, Weaviate
+  - Embedding models: sentence-transformers, OpenAI embeddings, Gemini embeddings
+  - Gemini API, OpenAI API, HuggingFace Transformers
+  - Machine Learning fundamentals: supervised, unsupervised, reinforcement learning
+  - NLP: tokenisation, named entity recognition, text classification
+
+Cloud & DevOps:
+  - Google Cloud Platform (GCP): Cloud Run, Cloud Storage, Vertex AI
+  - AWS / Azure basics
+  - Docker and Docker Compose
+  - Kubernetes (K8s) fundamentals
+  - CI/CD: GitHub Actions, Jenkins
+  - Infrastructure as Code: Terraform basics
+
+Databases:
+  - Relational: MySQL, PostgreSQL
+  - NoSQL: MongoDB, Redis
+  - Vector: ChromaDB, FAISS, Pinecone
+
+Tools & Practices:
+  - Git, GitHub (version control, pull requests, code review)
+  - Agile / Scrum methodology
+  - Unit testing: pytest, JUnit
+  - System design fundamentals
+  - Object-Oriented Programming (OOP), SOLID principles
+  - Clean code, design patterns (Factory, Singleton, Observer, Strategy)
+
+PREFERRED CERTIFICATIONS (for 12 LPA band)
+  - Google Cloud Associate Cloud Engineer
+  - Google Professional ML Engineer
+  - AWS Cloud Practitioner
+  - HuggingFace NLP Course completion
+  - DeepLearning.AI Prompt Engineering Specialisation
+  - Coursera / edX Machine Learning or Deep Learning specialisation
+
+SELECTION PROCESS
+  1. Online Aptitude Test (Quantitative, Verbal, Logical Reasoning)
+  2. Communication Assessment (spoken English, business writing)
+  3. Technical Assessment (DSA coding round — 3 problems in Java/Python/.NET)
+  4. Technical Interview (system design, project discussion, AI/ML concepts)
+  5. HR Interview
+
+INTERVIEW FOCUS AREAS
+  DSA Coding Round:
+    - Arrays, Strings, Linked Lists, Stacks, Queues
+    - Trees (BST, AVL), Graphs (BFS, DFS, Dijkstra)
+    - Dynamic Programming (LCS, LIS, Knapsack, Coin Change)
+    - Sorting and Searching (Merge Sort, Quick Sort, Binary Search)
+    - Complexity analysis: Big-O notation
+
+  Technical Interview:
+    - Explain your Gen AI project end-to-end
+    - What is RAG? How does it differ from pure LLM prompting?
+    - How do you build an Agentic AI workflow?
+    - Explain the difference between embeddings and fine-tuning
+    - REST API design principles
+    - React component lifecycle, hooks, state management
+    - Docker containerisation and deployment
+    - Cloud deployment options and trade-offs
+
+WHAT SETS CANDIDATES APART
+  - Working projects demonstrating Gen AI, RAG, Agentic AI integration
+  - Contributions to open-source GenAI repositories
+  - Published blog posts or YouTube tutorials on AI/ML topics
+  - Cloud certifications (especially GCP Professional ML Engineer)
+  - Strong GitHub profile with well-documented, starred repositories
+  - Internship experience at product-based / AI-focused companies
+
+COMPANY OVERVIEW
+Cognizant Technology Solutions is a Fortune 200 global IT services company
+with over 350,000 employees across 40+ countries. The company is aggressively
+investing in Generative AI, having launched the Cognizant AI Lab and partnered
+with Google, Microsoft, and NVIDIA for enterprise AI transformation projects.
+The GenC Next and ACE programs are premium hiring tracks with accelerated
+career growth, training stipends for cloud/AI certifications, and assignment
+to strategic AI-first client engagements.
+
+BENEFITS (12 LPA Band)
+  - Base salary: INR 10.5–11 LPA
+  - Performance bonus: up to 10% of base
+  - Certification sponsorship: up to INR 50,000/year
+  - Employee Stock Purchase Plan (ESPP)
+  - Comprehensive health insurance (self + family)
+  - Relocation assistance
+  - Access to Cognizant Learning Hub (Coursera, Pluralsight, LinkedIn Learning)
+  - Mentorship through Cognizant AI Accelerator Program

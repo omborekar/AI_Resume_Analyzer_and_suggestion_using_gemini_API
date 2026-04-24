@@ -1,9 +1,30 @@
-Flask==3.0.0
-flask-cors==4.0.0
-flask-mail==0.9.1
-python-dotenv==1.0.0
-pdfminer.six==20221105
-python-docx==1.1.0
-google-generativeai==0.4.0
+# ============================================================
+# ResumeIQ Pro — Backend Dependencies
+# Cognizant ACE Tech Stack Showcase
+# ============================================================
+
+# Core Flask
+Flask==3.0.3
+flask-cors==4.0.1
+flask-mail==0.10.0
+python-dotenv==1.0.1
+
+# File Processing
+pdfminer.six==20231228
+python-docx==1.1.2
+
+# Google Gemini (Gen AI)
+google-generativeai==0.7.2
+
+# RAG Pipeline (Retrieval Augmented Generation)
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# DSA / NLP
+langchain==0.2.16
+langchain-google-genai==1.0.10
+
+# Utilities
+Werkzeug==3.0.3
 
 # pip install -r requirements.txt
